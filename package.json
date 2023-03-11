@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cron": "^2.2.0",
+    "discord.js": "^13.2.0",
+    "node-ical": "^0.16.0"
+  }
+}
